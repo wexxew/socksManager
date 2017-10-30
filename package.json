@@ -1,0 +1,26 @@
+{
+  "name": "socksman",
+  "version": "1.0.0",
+  "description": "Store and manage socks5-proxy lists for modules that requires socks5 for work",
+  "main": "socksman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wexxew/socksman.git"
+  },
+  "keywords": [
+    "socks5",
+    "manager"
+  ],
+  "author": "wexxew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wexxew/socksman/issues"
+  },
+  "homepage": "https://github.com/wexxew/socksman#readme",
+  "dependencies": {
+    "random-js": "^1.0.8"
+  }
+}
